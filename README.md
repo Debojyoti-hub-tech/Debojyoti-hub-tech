@@ -1,4 +1,4 @@
-#👋 Hey there 
+# 👋 Hey there 
 # 💫 About Me:
 🔭 I'm currently working on TRE-X — a JARVIS-inspired ambient AI guardian system<br>👥 I'm looking to collaborate on AI agents, automation workflows, and full-stack web projects<br>🏆 I'm looking for help with MCP server architecture and multi-agent systems<br>🌱 I'm currently learning agentic AI design, n8n, and LLM orchestration<br>💬 Ask me about building AI systems, FastAPI, React, or voice pipelines<br>⚡ Fun fact: I'm building an AI that watches over me while I work — and it actually talks back
 
