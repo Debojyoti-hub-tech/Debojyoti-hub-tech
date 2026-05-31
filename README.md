@@ -22,7 +22,7 @@
 🔹 **Freelancer Marketplace Platform** *(In Development)*
 
 ## 🤝 Open to:
----
+
 - Collaborations on student projects
 - Hackathons
 - Open-source contributions
