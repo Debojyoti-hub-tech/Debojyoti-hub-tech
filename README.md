@@ -13,10 +13,10 @@
 
 ## 📌 Featured Projects
 
-🔹 FileForge — File Management System using Python & Streamlit
-🔹 AI & ML Mathematics Roadmap
-🔹 Login & Signup Frontend with Gmail Authentication
-🔹 Freelancer Marketplace Platform (In Development)
+🔹 **FileForge** — File Management System built using Python & Streamlit
+🔹 **AI & ML Mathematics Roadmap** — Semester-wise roadmap for mastering the mathematics behind AI & ML
+🔹 **Login & Signup Frontend** — Responsive authentication interface with Gmail sign-in support
+🔹 **Freelancer Marketplace Platform** *(In Development)*
 
 🤝 Open to:
 
