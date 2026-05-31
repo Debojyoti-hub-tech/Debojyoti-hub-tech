@@ -19,8 +19,6 @@
 
 🔹 **Login & Signup Frontend** — Responsive authentication interface with Gmail sign-in support
 
-🔹 **Freelancer Marketplace Platform** *(In Development)*
-
 ## 🤝 Open to:
 
 - Collaborations on student projects
