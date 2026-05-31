@@ -1,14 +1,22 @@
 <h1>Hey👋 </h1>
 <h2>💫 About Me:</h2>
 I'm Debojyoti Pal, a first-year B.Tech CSE (AI & ML) student passionate about Artificial Intelligence, Machine Learning, and Software Development. 
-🔭 Currently building personal projects and exploring AI-powered applications 
-🌱 Learning: 
-- Python 
-- Data Structures & Algorithms 
-- Machine Learning Fundamentals 
-- Web Development 
+
+🎓 B.Tech CSE (AI & ML) Student
+
+🚀 Exploring AI, Machine Learning & Software Engineering
+
+🔭 Building personal projects and experimenting with AI-powered applications
+
+🌱 Currently learning:
+- Python
+- Data Structures & Algorithms
+- Machine Learning
 - Git & GitHub
 
+🤝 Open to collaborations, hackathons, and open-source projects
+
+💡 Learning by building.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_coral_soul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debojyoti974deb@gmail.com) 
