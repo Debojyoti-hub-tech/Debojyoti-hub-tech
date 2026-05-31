@@ -1,16 +1,18 @@
-<h1>Hey👋 </h1>
-<h2>💫 About Me:</h2>
+# Hey 👋, I'm Debojyoti Pal
+A first-year B.Tech CSE (AI & ML) student passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
-I'm Debojyoti Pal, a first-year B.Tech CSE (AI & ML) student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+## 🚀 Current Focus
 
+* Data Structures & Algorithms
 
-🔭 Currently building personal projects and exploring AI-powered applications
+* Python Development
 
-🌱 Learning:
-- Data Structures & Algorithms
-- Machine Learning Fundamentals
-- Web Development
-- Git & GitHub
+* Machine Learning Fundamentals
+
+* Git & GitHub
+
+* Building Real-World Projects
+
 
 🚀 Long-Term Goal:
 To build intelligent systems that solve real-world problems and contribute to the future of AI.
@@ -31,9 +33,6 @@ To build intelligent systems that solve real-world problems and contribute to th
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Debojyoti-hub-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 [![](https://visitcount.itsvg.in/api?id=Debojyoti-hub-tech&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
