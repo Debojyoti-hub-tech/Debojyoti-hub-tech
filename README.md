@@ -21,14 +21,14 @@
 
 🔹 **Freelancer Marketplace Platform** *(In Development)*
 
-🤝 Open to:
-
+## 🤝 Open to:
+---
 - Collaborations on student projects
 - Hackathons
 - Open-source contributions
 - Learning opportunities
 
-💡 I believe the best way to learn technology is by solving real-world problems and sharing knowledge.
+> 💡 I believe the best way to learn technology is by solving real-world problems and sharing knowledge.
 
 ## 📫 Connect With Me
 
