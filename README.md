@@ -7,7 +7,6 @@ I'm Debojyoti Pal, a first-year B.Tech CSE (AI & ML) student passionate about Ar
 🔭 Currently building personal projects and exploring AI-powered applications
 
 🌱 Learning:
-- Python
 - Data Structures & Algorithms
 - Machine Learning Fundamentals
 - Web Development
