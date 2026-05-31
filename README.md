@@ -1,6 +1,8 @@
 <h1>Hey👋 </h1>
 <h2>💫 About Me:</h2>
+
 I'm Debojyoti Pal, a first-year B.Tech CSE (AI & ML) student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+
 
 🔭 Currently building personal projects and exploring AI-powered applications
 
