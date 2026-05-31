@@ -9,15 +9,15 @@
 * Python Development
 * Machine Learning Fundamentals
 * Git & GitHub
-* Building Real-World Projects
+* Developing Project-Based Skills
 
 ## 📌 Featured Projects
 
-🔹 **FileForge** — File Management System built using Python & Streamlit
+🔹 **FileForge** — CRUD-based file management application with a Streamlit UI and Python backend.
 
 🔹 **AI & ML Mathematics Roadmap** — Semester-wise roadmap for mastering the mathematics behind AI & ML
 
-🔹 **Login & Signup Frontend** — Responsive authentication interface with Gmail sign-in support
+🔹 **Login & Signup Frontend** — Responsive authentication interface built with HTML, CSS, and JavaScript.
 
 ## 🤝 Open to:
 
