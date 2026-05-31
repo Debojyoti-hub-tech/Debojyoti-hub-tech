@@ -1,21 +1,15 @@
 # Hey 👋, I'm Debojyoti Pal
-A first-year B.Tech CSE (AI & ML) student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+🎓 First-Year B.Tech CSE (AI & ML) Student
+
+💡 Passionate about Artificial Intelligence, Machine Learning, and Software Development.
 
 ## 🚀 Current Focus
 
 * Data Structures & Algorithms
-
 * Python Development
-
 * Machine Learning Fundamentals
-
 * Git & GitHub
-
 * Building Real-World Projects
-
-
-🚀 Long-Term Goal:
-To build intelligent systems that solve real-world problems and contribute to the future of AI.
 
 🤝 Open to:
 - Collaborations on student projects
@@ -23,7 +17,7 @@ To build intelligent systems that solve real-world problems and contribute to th
 - Open-source contributions
 - Learning opportunities
 
-💡 I believe the best way to learn technology is by building projects and sharing knowledge.
+💡 I believe the best way to learn technology is by solving real-world problems and sharing knowledge.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_coral_soul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:debojyoti974deb@gmail.com) 
