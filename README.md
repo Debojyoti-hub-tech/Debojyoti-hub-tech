@@ -13,11 +13,13 @@
 
 ## 📌 Featured Projects
 
+🔹 **Flight Management System** — Flight booking, management, and analytics platform built with Python, MySQL, and Streamlit.
+
 🔹 **FileForge** — CRUD-based file management application with a Streamlit UI and Python backend.
 
 🔹 **AI & ML Mathematics Roadmap** — Semester-wise roadmap for mastering the mathematics behind AI & ML
 
-🔹 **Login & Signup Frontend** — Responsive authentication interface built with HTML, CSS, and JavaScript.
+🔹 **Login & Signup with Gmail Auth** — Responsive authentication interface built with React, CSS, and Typescript.
 
 ## 🤝 Open to:
 
